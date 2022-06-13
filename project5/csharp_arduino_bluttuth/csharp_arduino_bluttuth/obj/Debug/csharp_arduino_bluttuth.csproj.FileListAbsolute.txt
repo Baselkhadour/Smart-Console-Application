@@ -1,0 +1,14 @@
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\bin\Debug\csharp_arduino_bluttuth.exe.config
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\bin\Debug\csharp_arduino_bluttuth.exe
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\bin\Debug\csharp_arduino_bluttuth.pdb
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.csprojAssemblyReference.cache
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.Form1.resources
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.Properties.Resources.resources
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.csproj.GenerateResource.cache
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.csproj.CoreCompileInputs.cache
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.exe
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.pdb
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\bin\Debug\csharp_arduino_bluttuth.exe.manifest
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\bin\Debug\csharp_arduino_bluttuth.application
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.exe.manifest
+C:\Users\Majd Hammoud\source\repos\csharp_arduino_bluttuth\csharp_arduino_bluttuth\obj\Debug\csharp_arduino_bluttuth.application

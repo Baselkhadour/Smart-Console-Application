@@ -1,0 +1,14 @@
+C:\Users\Majd Hammoud\source\repos\spech\spech\bin\Debug\spech.exe.config
+C:\Users\Majd Hammoud\source\repos\spech\spech\bin\Debug\spech.exe
+C:\Users\Majd Hammoud\source\repos\spech\spech\bin\Debug\spech.pdb
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.csprojAssemblyReference.cache
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.Form1.resources
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.Properties.Resources.resources
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.csproj.GenerateResource.cache
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.csproj.CoreCompileInputs.cache
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.exe
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.pdb
+C:\Users\Majd Hammoud\source\repos\spech\spech\bin\Debug\spech.exe.manifest
+C:\Users\Majd Hammoud\source\repos\spech\spech\bin\Debug\spech.application
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.exe.manifest
+C:\Users\Majd Hammoud\source\repos\spech\spech\obj\Debug\spech.application
